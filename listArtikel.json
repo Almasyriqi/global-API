@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Pelaksanaan Rapat Hasil Akhir Yudisium Semester Ganjil 2019/2020",
+      "body": "Jumat (17/1/20) kemarin, Jurusan Teknologi Informasi Politeknik Negeri Malang (JTI Polinema) menyelenggarakan rapat hasil yudisium semester ganjil tahun ajaran 2019/2020. Acara ini dimulai pada jam 8.30 dan bertempat di lantai 8, Gedung Teknik Sipil, Politeknik Negeri..."
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Kemeriahan Penutupan Digital Talent Scholarship VSGA 2019 Batch 2 di Politeknik Negeri Malang",
+      "body": "Selesai sudah Digital Talent Scholarship (DTS) Batch 2 2019 dengan program Vocational School Graduate Academy&nbsp;(VSGA) di Jurusan Teknologi Informasi (JTI) Politenik Negeri Malang (Polinema). Pelatihan yang didanai Kominfo dan bekerjasama dengan Jurusan..."
+    },
+    {
+      "userId": 1,
+      "id": 1646930839975,
+      "title": "Pelaksanaan UTS Jurusan Teknologi Informasi",
+      "body": "Pelaksanaan UTS akan dilaksanakan pada minggu kedelapan."
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

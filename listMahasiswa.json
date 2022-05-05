@@ -1,0 +1,31 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "NIM": 1941720057,
+      "nama": "M. Syifa'ul Ikrom Almasyriqi",
+      "alamat": "Puri Cempaka Putih 2 Blok AY-02 Malang",
+      "hp": "082213589072",
+      "angkatan": 2019,
+      "status": "aktif"
+    },
+    {
+      "NIM": "213456789",
+      "nama": "Mahasiswa C",
+      "alamat": "Malang",
+      "hp": "08215649897",
+      "angkatan": "2021",
+      "status": "cuti",
+      "id": 1647197655960
+    },
+    {
+      "NIM": "1941720184",
+      "nama": "diva ardhia",
+      "alamat": "Mojokerto",
+      "hp": "08221356987",
+      "angkatan": "2019",
+      "status": "aktif",
+      "id": 1648057393332
+    }
+  ]
+}
